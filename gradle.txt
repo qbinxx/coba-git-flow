@@ -1,0 +1,5 @@
+Setting telah selesai
+
+dependency 1 A
+dependency 2 B
+dependency 3 C
