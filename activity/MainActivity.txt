@@ -3,6 +3,7 @@ public class MainActivity{
 
 	onCreate(){
 		initialized;
+		updating;
 	}
 
 }
